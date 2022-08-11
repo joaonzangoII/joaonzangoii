@@ -2,8 +2,8 @@
 
 **📫 How to reach me:**
 
-[![LinkedIn](/img/linkedin.svg#gh-light-mode-only)](https://www.linkedin.com/in/joaonzangoii)
-[![Twitter](/img/instagram.svg#gh-light-mode-only)](https://instagram.com/joao_nzango)
+[![LinkedIn](/img/linkedin.jpg#gh-light-mode-only)](https://www.linkedin.com/in/joaonzangoii)
+[![Twitter](/img/instagram.png#gh-light-mode-only)](https://instagram.com/joao_nzango)
 [![Medium](/img/medium.svg#gh-light-mode-only)](https://medium.com/@joaonzango)
 
 [![Joao Nzango II's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaonzangoii&langs_count=8&hide=c%2B%2B,c,java&layout=compact&theme=dracula)](https://github.com/joaonzangoii/github-readme-stats)
