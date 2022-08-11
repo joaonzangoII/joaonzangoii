@@ -7,6 +7,8 @@
 <img height="33px" src="img/instagram.png" alt="Twitter"/>
 <img height="33px" src="img/medium.png" alt="Medium"/>
 </div>
+<br/>
+
 [![Joao Nzango II's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaonzangoii&langs_count=8&hide=c%2B%2B,c,java&layout=compact&theme=dracula)](https://github.com/joaonzangoii/github-readme-stats)
 
 [![Joao Nzango II's github stats](https://github-readme-stats.vercel.app/api?username=joaonzangoii&count_private=true&show_icons=true&theme=dracula)](https://github.com/joaonzangoii/github-readme-stats)
